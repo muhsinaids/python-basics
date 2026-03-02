@@ -1,0 +1,6 @@
+num1=int(input("Enter num1:"))
+num2=int(input("Enter num2:"))
+print("number1=",num1,"and number2=",num2)
+print("Is number1 and number2 are greater than 0",num1>0 and num2>0)
+print("Is number1 or number2 are greater than 0",num1>0 or num2>0)
+print("Is number1 is not greater than 0",not num1>0)
