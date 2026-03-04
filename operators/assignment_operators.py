@@ -1,0 +1,14 @@
+num=int(input("Enter the number :"))
+print("number = ",num)
+num+=10
+print("The num += 10 is ",num)
+num-=5
+print("The num -= 5 is ",num)
+num*=2
+print("The num *= 2 is ",num)
+num/=5
+print("The num /= 5 is ",num)
+num%=3
+print("The num %= 3 is ",num)
+num**=2
+print("The num **= 2 is ",num)
