@@ -1,0 +1,11 @@
+git init
+git status
+git add .
+git commit -m "message"
+git remote add origin <repo-url>
+git push -u origin main
+git pull
+git clone <repo-url>
+git branch
+git switch -c new-branch
+git merge
